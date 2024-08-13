@@ -4,3 +4,5 @@ hello git!
 hello git!
 
 change at branch master after feature1 branch created
+
+testmerge
